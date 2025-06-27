@@ -16,7 +16,6 @@ As a TA of the course, I prepared and lectured 5 hands-on coding tutorials on va
     - Building a fully visible Boltzamnn Machine and training it on a toy dataset using Gibbs sampling
     - Coding a Neural Energy-based Model, training it to learn a bi-modal distribution using Langevin sampling
   
-    - 
 4. **Generative Adversarial Models (GAN) and Wasserstein GAN (WGAN)**
     - Building a vanilla GAN consisting of discriminator and generator models
     - Training GAN on MNIST
